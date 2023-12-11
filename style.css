@@ -1,0 +1,15 @@
+/* Style for the body tag */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e7e715;
+    color: #eb0909;
+}
+
+/* Style for the h1 tag */
+h1 {
+    color: #000204;
+    text-align: center;
+    margin-top: 50px;
+}
